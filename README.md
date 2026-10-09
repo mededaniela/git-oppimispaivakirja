@@ -1,0 +1,2 @@
+# git-oppimispaivakirja
+Git-oppimispäiväkirja
